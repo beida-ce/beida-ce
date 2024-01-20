@@ -1,4 +1,10 @@
-<h1 align="left">Hey !! 👋</h1>
+###
+
+<img src="https://raw.githubusercontent.com/beida-ce/beida-ce/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="center">Hey !! 👋</h1>
 
 ###
 
@@ -60,4 +66,3 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
 </div>
 
-###
