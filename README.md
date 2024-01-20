@@ -1,8 +1,3 @@
-###
-
-<img src="https://raw.githubusercontent.com/beida-ce/beida-ce/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h1 align="center">Hey !! 👋</h1>
 
