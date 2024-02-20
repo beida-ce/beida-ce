@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java and nodejs<br>🎯 My goal is to be the greatest backend developer in the known universe<br>🎲 Fun fact: i will be the greatest backend developer in the known universe</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java and nodejs<br></p>
 
 ###
 
