@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently studying on Cyber Security.<br>🎲 One of my hobbies is developing games. Stay tuned for new games.<br>🎯 I will succeed!</p>
+<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently studying on React and Angular.<br>🎲 One of my hobbies is developing games. Stay tuned for new games.<br>🎯 I will succeed!</p>
 
 ###
 
