@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently studying on Unity and C#.<br>🎲 My hobbies are gaming & mangas. 🎯 I will succeed!</p>
+<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently studying on Unity and C#.<br>🎲 My hobbies are gaming & mangas. <br>🎯 I will succeed!</p>
 
 ###
 
