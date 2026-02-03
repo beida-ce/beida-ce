@@ -26,7 +26,8 @@ I’m currently strengthening this area through certifications and hands-on lear
 
 ### ▌ Current Focus
 - Building small but complete Unity projects with clear structure  
-- Improving system design and gameplay programming skills  
+- Improving system design and gameplay programming skills 
+- Training cyber security on a daily basis 
 - Developing a stronger software engineering mindset  
 
 ---
