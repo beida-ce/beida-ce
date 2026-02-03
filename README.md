@@ -1,38 +1,25 @@
-# Hi there, I'm [Adın] 👋
+## Hi 👋
 
-### 🚀 Software Developer | Unity & C# | Cybersecurity Enthusiast 🛡️
+I'm a **Software Developer** focused on **Unity & C#**, with experience in both interactive applications and enterprise software.
 
-I am a software developer focused on building immersive XR experiences and robust enterprise solutions. I believe that great software is not just about functionality, but also about **clean architecture** and **security-first thinking.**
+I have worked on **Unity-based VR/XR projects**, where I focused on user interactions, input handling, and building consistent experiences across PC and VR platforms. I have also contributed to **enterprise-level software**, implementing features such as data filtering, reporting, multi-language support, and performance improvements.
 
----
+Beyond development, I actively explore **cybersecurity fundamentals** to better understand how software systems can be built more securely and reliably. I am currently strengthening this area through certifications and hands-on learning.
 
-### 🛠️ My Tech Stack
+### 🔧 Technical Focus
+- Unity & C#
+- Gameplay and interactive system development
+- Event-driven programming
+- Clean code and maintainable architectures
+- Cybersecurity fundamentals
 
-**Programming & Game Dev**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 📌 What I’m Working On
+- Building small but complete Unity projects with clear structure
+- Improving system design and gameplay programming skills
+- Developing a stronger software engineering mindset
 
-**Cybersecurity & Tools**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### 📂 Selected Projects
+- **Unity Endless Runner** — core gameplay mechanics, input systems, and basic UI  
+- **Discord Bot Application** — event-based logic and external API integration
 
----
-
-### 🛡️ Cybersecurity Journey
-I am currently strengthening my software engineering mindset by exploring:
-- **Secure Coding Practices** (OWASP principles for C#)
-- **Basic Penetration Testing**
-- **Network Fundamentals**
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+parlat
