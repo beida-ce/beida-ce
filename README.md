@@ -21,5 +21,3 @@ Beyond development, I actively explore **cybersecurity fundamentals** to better 
 ### 📂 Selected Projects
 - **Unity Endless Runner** — core gameplay mechanics, input systems, and basic UI  
 - **Discord Bot Application** — event-based logic and external API integration
-
-parlat
