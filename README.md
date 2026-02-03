@@ -32,4 +32,4 @@ I’m currently strengthening this area through certifications and hands-on lear
 
 ### ▌ Selected Projects
 - **Unity Endless Runner** — Core gameplay mechanics, input systems, and basic UI  
-- **Discord Bot Application** — Command handling, bot logic, and external API integration
+- **Discord Bot Application** — Command handling, bot logic, and external API integration 
