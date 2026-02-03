@@ -1,57 +1,23 @@
-<h1 align="left">Hey 👋 Welcome!</h1>
+## Hi 👋
 
-###
+I'm a **Software Developer** focused on **Unity & C#**, with experience in both interactive applications and enterprise software.
 
-<p align="left">My name is Beyda, and I'm a junior software developer, from Turkey!</p>
+I have worked on **Unity-based VR/XR projects**, where I focused on user interactions, input handling, and building consistent experiences across PC and VR platforms. I have also contributed to **enterprise-level software**, implementing features such as data filtering, reporting, multi-language support, and performance improvements.
 
-###
+Beyond development, I actively explore **cybersecurity fundamentals** to better understand how software systems can be built more securely and reliably. I am currently strengthening this area through certifications and hands-on learning.
 
-<h2 align="left">About me</h2>
+### 🔧 Technical Focus
+- Unity & C#
+- Gameplay and interactive system development
+- Event-driven programming
+- Clean code and maintainable architectures
+- Cybersecurity fundamentals
 
-###
+### 📌 What I’m Working On
+- Building small but complete Unity projects with clear structure
+- Improving system design and gameplay programming skills
+- Developing a stronger software engineering mindset
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently studying on Unity and C#.<br>🎲 My hobbies are gaming & mangas. <br>🎯 I will succeed!</p>
-
-###
-
-<h2 align="left">Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/beydakılıçoğlu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+### 📂 Selected Projects
+- **Unity Endless Runner** — core gameplay mechanics, input systems, and basic UI  
+- **Discord Bot Application** — event-based logic and external API integration
