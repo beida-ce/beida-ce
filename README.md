@@ -5,6 +5,7 @@ applications and enterprise software.
 
 ▌ I’ve worked on **Unity-based VR/XR projects**, focusing on user interaction,
 input handling, and building consistent experiences across PC and VR platforms.
+
 ▌ I’ve also contributed to **enterprise-level software**, implementing data
 filtering, reporting, multi-language support, and performance optimizations.
 
