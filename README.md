@@ -1,17 +1,16 @@
 ## Hi 👋
 
-I’m a Software Developer focused on **Unity & C#**, working across
-interactive applications and enterprise software.
+I’m a Software Developer focused on **Unity & C#**, working across interactive
+applications and enterprise software.
 
 ▌ I’ve worked on **Unity-based VR/XR projects**, focusing on user interaction,
 input handling, and building consistent experiences across PC and VR platforms.
-I’ve also contributed to **enterprise-level software**, implementing data
+▌ I’ve also contributed to **enterprise-level software**, implementing data
 filtering, reporting, multi-language support, and performance optimizations.
 
-▌ Beyond development, I explore **cybersecurity fundamentals** to better
-understand how software systems can be designed to be more secure, predictable,
-and resilient. I’m currently strengthening this area through certifications and
-hands-on learning.
+▌ Beyond development, I explore **cybersecurity fundamentals** to better understand
+how software systems can be designed to be more secure, predictable, and resilient.
+I’m currently strengthening this area through certifications and hands-on learning.
 
 ---
 
