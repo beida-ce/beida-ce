@@ -32,6 +32,15 @@ I’m currently strengthening this area through certifications and hands-on lear
 
 ---
 
+### ▌ Tech Stack
+Python · JavaScript · C#  
+Node.js · Express · REST APIs  
+Unity · PostgreSQL · MongoDB  
+Git · Docker · Linux  
+Cybersecurity fundamentals
+
+---
+
 ### ▌ Selected Projects
 - **Unity Endless Runner** — Core gameplay mechanics, input systems, and basic UI  
 - **Discord Bot Application** — Command handling, bot logic, and external API integration 
