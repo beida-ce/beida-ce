@@ -15,9 +15,7 @@ I’m currently strengthening this area through certifications and hands-on lear
 
 ---
 
-### ▌ Technical Focus
-- Unity & C#  
-- Gameplay and interactive system development  
+### ▌ Technical Focus 
 - Input handling and system design  
 - Clean code and maintainable architectures  
 - Cybersecurity fundamentals  
