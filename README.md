@@ -34,7 +34,7 @@ I’m currently strengthening this area through certifications and hands-on lear
 Python · JavaScript · C#  
 Node.js · Express · REST APIs  
 Unity · PostgreSQL · MongoDB  
-Git · Docker · Linux  
+Git · Postman · Linux  
 Cybersecurity fundamentals
 
 ---
