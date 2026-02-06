@@ -1,4 +1,4 @@
-https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif
+![6976ea880c18a500015923d3a0c241a9](https://github.com/user-attachments/assets/b344f8e7-ad3b-4aaa-9c7c-8b729f121d3e)
 ## Hi 👋
 
 I’m a Software Developer focused on **Unity & C#**, working across interactive
