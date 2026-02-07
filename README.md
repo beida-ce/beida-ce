@@ -34,6 +34,5 @@ Cybersecurity fundamentals
 ### ▌ Selected Projects
 - **Unity Endless Runner** — Core gameplay mechanics, input systems, and basic UI  
 - **Discord Bot Application** — Command handling, bot logic, and external API integration
-
-                                                        ![snow-cat](https://github.com/user-attachments/assets/e300def7-7a51-4b7d-a31f-4ec6d6146cee)
+![snow-cat](https://github.com/user-attachments/assets/e300def7-7a51-4b7d-a31f-4ec6d6146cee)
 
