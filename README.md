@@ -35,6 +35,5 @@ Cybersecurity fundamentals
 - **Unity Endless Runner** — Core gameplay mechanics, input systems, and basic UI  
 - **Discord Bot Application** — Command handling, bot logic, and external API integration
   
-<div style="align: center;">
-![6976ea880c18a500015923d3a0c241a9](https://github.com/user-attachments/assets/b344f8e7-ad3b-4aaa-9c7c-8b729f121d3e)
-</div>
+    ![6976ea880c18a500015923d3a0c241a9](https://github.com/user-attachments/assets/b344f8e7-ad3b-4aaa-9c7c-8b729f121d3e)
+
