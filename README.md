@@ -6,13 +6,6 @@ I’m currently strengthening this area through certifications and hands-on lear
 
 ---
 
-### ▌ Current Focus
-- Building small but complete Unity projects with clear structure  
-- Improving system design and overall programming skills 
-- Training cyber security on a daily basis 
-
----
-
 ### ▌ Tech Stack
 Python · JavaScript · C#  
 Node.js · Express · REST APIs  
@@ -22,8 +15,7 @@ Cybersecurity fundamentals
 
 ---
 
-### ▌ Selected Projects
-- **Unity Endless Runner** — Core gameplay mechanics, input systems, and basic UI  
-- **Discord Bot Application** — Command handling, bot logic, and external API integration
-![snow-cat](https://github.com/user-attachments/assets/e300def7-7a51-4b7d-a31f-4ec6d6146cee)
-
+### ▌ Current Focus
+- Building small but complete Unity projects with clear structure  
+- Improving system design and overall programming skills 
+- Training cyber security on a daily basis 
