@@ -1,9 +1,8 @@
 ## Hi 👋
 
-I’m a Software Developer. Beyond development, I explore **cybersecurity fundamentals** to better understand
-how software systems can be designed to be more secure, predictable, and resilient.
-I’m currently strengthening this area through certifications and hands-on learning.
-
+Software & Game Developer (Unity, C#) focused on gameplay systems and clean architecture.
+Interested in cybersecurity fundamentals to design secure and resilient software systems.
+Continuously improving through certifications and hands-on projects.
 ---
 
 ### ▌ Tech Stack
