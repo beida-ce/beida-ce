@@ -1,8 +1,8 @@
 ## Hi 👋
 
-Software & Game Developer (Unity, C#) focused on gameplay systems and clean architecture.
-Interested in cybersecurity fundamentals to design secure and resilient software systems.
-Continuously improving through certifications and hands-on projects.
+I’m a Software & Game Developer with a focus on Unity (C#) and gameplay systems. I enjoy building clean, scalable, and maintainable architectures while turning ideas into functional interactive experiences.
+Beyond game development, I explore cybersecurity fundamentals to better understand how software systems can be designed to be secure, predictable, and resilient. I’m currently strengthening this area through certifications and hands-on learning.
+
 ---
 
 ### ▌ Tech Stack
